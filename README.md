@@ -11,17 +11,14 @@ Uses Matlab
 
 Image task:
 https://github.com/luckyniwre777gerona/Digital_Signal_Processing/blob/master/Image_Processing_Task.pdf
-
 Image folder contains relevant files
 
 
 Audio task:
 https://github.com/luckyniwre777gerona/Digital_Signal_Processing/blob/master/Audio_Processing_Task.pdf
-
 Image folder contains relevant files
 
 
 Speech Task:
 https://github.com/luckyniwre777gerona/Digital_Signal_Processing/blob/master/Speech_Processing_Task.pdf
-
 Image folder contains relevant files
