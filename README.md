@@ -9,16 +9,16 @@ Uses Matlab
 3 parts of DSP: Image, Audio, Speech
 
 
-Image task:
+Image folder contains relevant files. Image task:
 https://github.com/luckyniwre777gerona/Digital_Signal_Processing/blob/master/Image_Processing_Task.pdf
-Image folder contains relevant files
 
 
-Audio task:
+
+Audio folder contains relevant files. Audio task:
 https://github.com/luckyniwre777gerona/Digital_Signal_Processing/blob/master/Audio_Processing_Task.pdf
-Image folder contains relevant files
 
 
-Speech Task:
+
+Speech folder contains relevant files. Speech Task:
 https://github.com/luckyniwre777gerona/Digital_Signal_Processing/blob/master/Speech_Processing_Task.pdf
-Image folder contains relevant files
+
